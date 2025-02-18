@@ -1,1 +1,1 @@
-Nueva línea de prueba
+Cambio en main desde otro terminal
